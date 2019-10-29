@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"+xhR":function(e,t,a){"use strict";a.r(t);var n=a("Wbzz"),c=a("9Dj+"),o=a("H8eV");t.default=function(){return React.createElement(c.a,null,React.createElement(o.a,{title:"Page two"}),React.createElement("h1",null,"Hi from the second page"),React.createElement("p",null,"Welcome to page 2"),React.createElement(n.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-page-2-tsx-6c95fbf3b9b2d65b23a2.js.map
